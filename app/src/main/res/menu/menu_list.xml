@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/create"
+        android:icon="@drawable/ic_add_circle"
+        android:title="Create"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/aboutUs"
+        android:icon="@drawable/aboutus"
+
+        android:title="Info"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/tutorial"
+        android:icon="@drawable/tutorialicon"
+        android:title="Tutorial"
+        app:showAsAction="always"/>
+
+</menu>

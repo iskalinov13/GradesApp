@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetGrades</string>
+    <string name="pdf"><a href="http://adilbek.info/getGrade.pdf">DOWNLOAD ANSWER SHEET</a></string>
+</resources>
