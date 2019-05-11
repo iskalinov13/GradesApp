@@ -24,7 +24,7 @@ Download the OpenCV to your phone to initialize the appp.
 ![WhatsApp Image 2019-05-11 at 14 33 08 (1)](https://user-images.githubusercontent.com/38553874/57567386-2c136e80-73fa-11e9-8cc9-e59b32a61e51.jpeg)
 
 # Follow this website to get more info
-[BORN2CODE09](adilbek.info)
+[BORN2CODE09](http://adilbek.info/)
 
 # Short presentation 
 [GetGrade (1).pdf](https://github.com/iskalinov13/GradesApp/files/3168811/GetGrade.1.pdf)
