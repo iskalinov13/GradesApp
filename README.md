@@ -1,8 +1,9 @@
 # GetGrade-app-android
 Get grade of the multiple choice tests, quizzes, and assessments instantly by using your Android smartphone’s camera as a scanner.
 # Info
-To get full source code just write me:
+To get full source code just write us:
 iskalinov133@gmail.com
+170107165@stu.sdu.edu.kz
 # Install
 Download OpenCV from official site. Then add library to project and set VM options as following.
 // native library
