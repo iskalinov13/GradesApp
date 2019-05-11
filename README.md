@@ -30,3 +30,6 @@ Download the OpenCV to your phone to initialize the appp.
 # Short presentation 
 [GetGrade (1).pdf](https://github.com/iskalinov13/GradesApp/files/3168811/GetGrade.1.pdf)
 
+# Answer sheets
+[answer sheets.pdf](https://github.com/iskalinov13/GradesApp/files/3168838/answer.sheets.pdf)
+
