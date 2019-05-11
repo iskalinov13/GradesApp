@@ -18,5 +18,14 @@ Download the OpenCV to your phone to initialize the appp.
 
 ![ic_results](https://user-images.githubusercontent.com/38553874/57566963-49ddd500-73f4-11e9-8263-51e8e534e4fe.png)
 
+# Getting the result
+![WhatsApp Image 2019-05-11 at 14 33 07](https://user-images.githubusercontent.com/38553874/57567384-27e75100-73fa-11e9-8c7f-2e92c256f2a2.jpeg)
+![WhatsApp Image 2019-05-11 at 14 33 08](https://user-images.githubusercontent.com/38553874/57567385-2a49ab00-73fa-11e9-863b-e00118e7dd0f.jpeg)
+![WhatsApp Image 2019-05-11 at 14 33 08 (1)](https://user-images.githubusercontent.com/38553874/57567386-2c136e80-73fa-11e9-8cc9-e59b32a61e51.jpeg)
+
 # Follow this website to get more info
-[BORN2CODE09](https://www.google.com/search?ei=pYHWXLr_J_aFk74P-d6IYA&q=bron2code+adilbek&oq=bron2code+adilbek&gs_l=psy-ab.3...7189.9635..9939...0.0..0.254.1188.0j7j1......0....1..gws-wiz.......33i160.rMfDBejVHkM)
+[BORN2CODE09](adilbek.info)
+
+# Short presentation 
+[GetGrade (1).pdf](https://github.com/iskalinov13/GradesApp/files/3168811/GetGrade.1.pdf)
+
