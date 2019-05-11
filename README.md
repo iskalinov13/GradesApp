@@ -19,4 +19,4 @@ Download the OpenCV to your phone to initialize the appp.
 ![ic_results](https://user-images.githubusercontent.com/38553874/57566963-49ddd500-73f4-11e9-8263-51e8e534e4fe.png)
 
 # Follow this website to get more info
-## BORN2CODE09
+[BORN2CODE09](https://www.google.com/search?ei=pYHWXLr_J_aFk74P-d6IYA&q=bron2code+adilbek&oq=bron2code+adilbek&gs_l=psy-ab.3...7189.9635..9939...0.0..0.254.1188.0j7j1......0....1..gws-wiz.......33i160.rMfDBejVHkM)
