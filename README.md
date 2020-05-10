@@ -3,7 +3,7 @@ Get grade of the multiple choice tests, quizzes, and assessments instantly by us
 # Info
 To get full source code just write us:
 iskalinov133@gmail.com
-170107165@stu.sdu.edu.kz
+
 # Install
 Download OpenCV from official site. Then add library to project and set VM options as following.
 // native library
